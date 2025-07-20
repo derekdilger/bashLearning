@@ -1,6 +1,6 @@
 # bashLearning
 
-following aloung https://linuxhandbook.com/bash/
+following along https://linuxhandbook.com/bash/
 committing to git just to... keep those commands fresh in my neurons
 
 
