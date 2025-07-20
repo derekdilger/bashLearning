@@ -1,0 +1,11 @@
+#! /bin/bash
+
+echo 'what is your name'
+read name
+echo "greetings $name"
+
+echo 'what is your age'
+read age
+echo "so you are $age"
+
+echo "Today's date is $(date)"
